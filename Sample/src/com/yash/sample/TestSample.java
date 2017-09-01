@@ -4,5 +4,5 @@ public class TestSample {
 	public static void main(String args[]) {
 		System.out.println("Hello");
 	}
-// Changes are done by SAMPATH REDDY BARAJI by
+// Changes are done by SAMPATH and victor
 }
